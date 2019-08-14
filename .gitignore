@@ -36,3 +36,4 @@ wp-includes/
 !/wp-content/cache/config/
 ## Woocommerce dat
 *.dat
+!testwordpresssomnath.txt
