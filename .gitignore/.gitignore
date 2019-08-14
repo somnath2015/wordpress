@@ -1,0 +1,38 @@
+node_modules
+bower_components
+# Windows image file caches
+Thumbs.db
+Ehthumbs.db
+# Folder config file
+Desktop.ini
+Wp-config.php
+# Mac
+*.DS_Store
+# Core files removed
+wp-admin/
+wp-includes/
+/*.php
+/*.html
+/*.txt
+/*.htaccess
+## Big binarai files
+*.mp4
+## Ignore wp-contents/plugins
+/wp-content/plugins/*
+!/wp-content/plugins/revslider
+!/wp-content/plugins/Ultimate_VC_Addons
+!/wp-content/plugins/js_composer
+## Ignore wp themes
+/wp-content/themes/*.*
+!/wp-content/yourtheme
+!/wp-content/yourtheme-child
+# wp-content
+/wp-content/updraft
+/wp-content/upgrade
+/wp-content/envato-backups
+/wp-content/uploads/revslider/templates/
+## Cache
+/wp-content/cache/*
+!/wp-content/cache/config/
+## Woocommerce dat
+*.dat
